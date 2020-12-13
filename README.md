@@ -5,7 +5,7 @@
 ## General info
  A quick project to sum the daily covid cases in Poland, display cases monthly and calculate which stage was reached. Using datetime library to handle dates, reading and writing to csv files.
 
-## Screenshot
+## Covid stages in Poland
 ![Covid stages in Poland](./covidphases.png)
 
 
